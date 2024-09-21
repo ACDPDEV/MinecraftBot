@@ -1,4 +1,4 @@
-from src.classes.MInecraftBot import MinecraftBot
+from src.classes.MinecraftBot import MinecraftBot
 
 ARGS = {
     "host": "mc.servermc.xyz",
