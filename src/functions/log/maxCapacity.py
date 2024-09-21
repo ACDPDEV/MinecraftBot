@@ -1,4 +1,4 @@
-from functions.log.adjustLine import splitString, addSpacesString, cutString
+from src.functions.log.adjustLine import splitString, addSpacesString, cutString
 
 def maxCapacityLines(lines: list, max_length: int = 49):
     new_lines = []
